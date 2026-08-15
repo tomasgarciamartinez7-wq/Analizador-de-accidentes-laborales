@@ -58,4 +58,4 @@ La aplicación funciona correctamente en forma local. Se verificó que permite c
 Solamente falta seguir puliéndola con gráficos, ponerla en práctica y evaluar su utilidad en el campo real. No se pudo trabajar con python pero por un problema puntual de windows.
 
 ## Qué aprendí
-Aprendí a interactuar mucho mejor con codex, y a separar mejor como interactuar con el chat y como interactuar con la función de programación
+Aprendí a interactuar mejor con Codex, a definir el problema antes de comenzar a construir y a diferenciar cuándo utilizar ChatGPT para analizar y diseñar una solución y cuándo utilizar Codex para llevarla a la práctica
