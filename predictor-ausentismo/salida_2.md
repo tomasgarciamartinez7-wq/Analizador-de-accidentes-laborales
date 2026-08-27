@@ -1,3 +1,14 @@
+# Salida 2 — Contrato V2
+
+## Corrida después de la Iteración 1
+
+**Período de corte:** abril 2026  
+**Período a predecir:** mayo 2026
+
+Esta salida corresponde a la segunda ejecución del contrato, luego de modificar únicamente la pieza TAREA.
+
+## Resultado
+
 | Operación | M-3 | M-2 | M-1 | Predicción | Tendencia | Riesgo | Confianza | Factores principales |
 |---|---|---|---|---|---|---|---|---|
 | Operacion_001 | Datos insuficientes | Datos insuficientes | Datos insuficientes | Datos insuficientes | Datos insuficientes | Datos insuficientes | Baja | Faltan febrero, marzo y abril de 2026. |
